@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="ANIMATE_WINDOWS" value="false" />
     <option name="EDITOR_TAB_PLACEMENT" value="0" />
+    <option name="MAX_CLIPBOARD_CONTENTS" value="100" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
 </application>
