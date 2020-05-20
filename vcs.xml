@@ -82,6 +82,10 @@
           <option name="url" value="https://github.com/askont/bitc-totdesigner-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MindorksOpenSource/Kotlin-Flow-Android-Examples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\scrap\Documents\Android\Projects" />
