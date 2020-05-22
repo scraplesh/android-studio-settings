@@ -3,5 +3,8 @@
     <account id="f0b82635-f588-4a76-afcf-f3dc7aef1e93" name="scraplesh@gmail.com">
       <server useHttp="false" host="github.com" />
     </account>
+    <account id="c04b4b2e-3825-42ed-bbf9-09d62f49590d" name="scraplesh">
+      <server useHttp="false" host="github.com" />
+    </account>
   </component>
 </application>
