@@ -1,10 +1,10 @@
 <application>
   <component name="GithubAccounts">
-    <account id="f0b82635-f588-4a76-afcf-f3dc7aef1e93" name="scraplesh@gmail.com">
-      <server useHttp="false" host="github.com" />
+    <account id="11cedd7a-266a-4022-bcd4-da6aed96409b" name="artemtomilov-just">
+      <server host="github.com" />
     </account>
-    <account id="c04b4b2e-3825-42ed-bbf9-09d62f49590d" name="scraplesh">
-      <server useHttp="false" host="github.com" />
+    <account id="8a2fffc6-2663-476e-82d9-4236af163e9c" name="scraplesh">
+      <server host="github.com" />
     </account>
   </component>
 </application>
