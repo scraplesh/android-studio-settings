@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="ActivateBuildToolWindow">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
